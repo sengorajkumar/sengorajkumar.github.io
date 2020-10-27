@@ -1,24 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: raj_sengo.jpg
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Software Professional with 20 years of experience in software development across different domains and technologies. I started as a C, C++ and Oracle RDBMS applications developer at Infosys. In my 12+ years of association with Infosys, I played various roles including Software Engineer, Programmer Analyst, Business System Analyst, Project Manager, Senior Project Manager, APAC & EMEA Pre-Sales Manager, Technology Architect and Systems Integrator. Worked with customers from different domains like  First USA & BankOne (Chase), Apple Inc, British Telecom,  Belgacom, PMI Mortgage Insurance, Vodafone & Alstom.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my initial years at Infosys I had developed a strong desire to learn new technologies and solve business problems. That lead to shifting my focus on Systems Integration and Digital Transformation areas where I worked as a Content Management Systems Architect, implementing and integrating products like IBM FileNet, Oracle WebCenter Sites for customers, Chase and Apple. In my constant pursuit of technology challenges I joined Oracle in the spring of 2013.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my current day job at Oracle, I work as Senior Web Technologist, perform the role of CMS Architect and Product Owner in leading a technology team to implement Oracle Content and Experience Cloud Platform for oracle.com web properties. In the evenings and weekends, I'm a graduate student at Cockrell School of Engineering, University of Texas at Austin pursuing Masters Degree in Software Engineering.  I manage both very well and still find time for family & friends !
+
+Going back to graduate school after spending 17 years in the industry opened up lot of learning opportunities and challenges for me.  I'm able to complement my work experience with formal software engineering principles and expand my skills & experience in areas like Analysis of Algorithms and Data-structures, Machine learning, Deep learning, Parallel Programming and Information Security.
+
+Skills:- C, C++, Java, J2EE, Spring, Hibernate, Python, Flask, MongoDB, Unix, Oracle RDBMS, HTML, CSS, JS, JQuery, IBM FileNet, Oracle WebCenter Sites, Oracle OCE (Content and Experience Cloud), Python, Pandas, Matplotlib, NumPy, Scikit-learn, SciPy, PyTorch, TensorFlow, Fastai, OpenMP, Cuda Programming, Go, Kotlin, React Native, TestNG
+
+    What we have learned
+    Is like a handful of earth;
+    What we have yet to learn
+    Is like the whole world
+        - Auvaiyar, 4th C poet, India
