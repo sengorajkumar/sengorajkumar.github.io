@@ -1,9 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
+title: CUDA Programming
+description: Accelerating Bellman-Ford Single Source Shortest Path Algorithm on GPU using CUDA
+img: /assets/img/project_cuda.png
+github: https://github.com/sengorajkumar/gpu_graph_algorithms
+redirect: https://github.com/sengorajkumar/gpu_graph_algorithms
+github_stars: 4
+importance: 6
 ---
 
 Every project has a beautiful feature showcase page.

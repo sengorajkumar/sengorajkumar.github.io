@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Data analysis and Visualization
+description: TEXAS COVID-19 Vaccine Allocation and Distribution
+img: /assets/img/project1_vaccine.png
+redirect: https://www.kaggle.com/rajsengo/texas-covid19-vaccine-distribution
 importance: 1
 ---
 

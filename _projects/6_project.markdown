@@ -1,9 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Web application automation testing
+description: Automation of Web application using Selenium, TestNG and ExtentReports 
 img:
-importance: 4
+github: https://github.com/sengorajkumar/webautomation
+redirect: https://github.com/sengorajkumar/webautomation
+importance: 7
 ---
 
 Every project has a beautiful feature showcase page.

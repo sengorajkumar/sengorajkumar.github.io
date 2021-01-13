@@ -1,9 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: NLP Text Classification
+description: Transfer learning using fast.ai ULMFIT model to classify github issues
+img: /assets/img/project_nlp_github.png
+redirect: https://github.com/sengorajkumar/machinehack-github-issues-classification
+github: https://github.com/sengorajkumar/machinehack-github-issues-classification
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.

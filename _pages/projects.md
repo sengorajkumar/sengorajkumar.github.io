@@ -1,8 +1,8 @@
-    ---
+---
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 ---
 
@@ -21,8 +21,9 @@ nav: true
         <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
+          <!-- <h4 class="card-title text-lowercase">{{ project.title }}</h4> -->
+          <h5 class="card-title">{{ project.title }}</h5>
+          <p class="card-text"><i>{{ project.description }}</i></p>
           <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">
@@ -43,5 +44,5 @@ nav: true
     </a>
   </div>
 {% endfor %}
-
+<span>Photo by <a href="https://unsplash.com/@hakannural?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hakan Nural</a> on <a href="https://unsplash.com/@hakannural?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 </div>

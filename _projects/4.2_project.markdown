@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Kaggle Competition
-description:  Analysis of 2020 Kaggle Machine Learning & Data Science Survey
-img: /assets/img/project2_kaggle_competition.png
-redirect: https://www.kaggle.com/rajsengo/initial-years-in-data-science-journey
-importance: 2
+title: Mutual Exclusion Algorithms - MultiCore Computing
+description: Implementation and comparison of mutual exclusion algorithms based on read-write registers
+img: 
+github: https://github.com/sengorajkumar/mutex-algorithms
+redirect: https://github.com/sengorajkumar/mutex-algorithms
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

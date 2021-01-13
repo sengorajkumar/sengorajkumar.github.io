@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Data Mining
+description: Indian Premier League dataset mining and Regression techniques for runs prediction
+img: /assets/img/ipl_data.png
+redirect: https://www.kaggle.com/rajsengo/indian-premier-league-ipl-all-seasons
 importance: 3
 ---
 
